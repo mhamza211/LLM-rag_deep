@@ -1,0 +1,2 @@
+🔥 For my 3rd internship task at PITB, I developed an AI-powered document assistant using 🧠 LLMs (DeepSeek-R1 via Ollama), 📚 LangChain, and 🚀 Streamlit. This intelligent app lets users upload PDFs 📄, processes the content into chunks 🧩, performs semantic search with vector embeddings 🎯, and generates concise answers in a chat-style interface 💬. Proud to be working on cutting-edge AI tech and gaining real-world experience! 💻✨ #AI #LLM #Internship #LangChain #Streamlit #Ollama #Python #PITB
+
